@@ -250,8 +250,8 @@ github.com/rancher/gke-operator v1.10.0 h1:vV9jLErnH5VRBpK/kCzem8T7/yEDqLVXIcv20
 github.com/rancher/gke-operator v1.10.0/go.mod h1:k3oIJMCilpaLHeHPRy90S3pfZ05vbe+b+g1ISiHQbLo=
 github.com/rancher/lasso v0.0.0-20240924233157-8f384efc8813 h1:V/LY8pUHZG9Kc+xEDWDOryOnCU6/Q+Lsr9QQEQnshpU=
 github.com/rancher/lasso v0.0.0-20240924233157-8f384efc8813/go.mod h1:IxgTBO55lziYhTEETyVKiT8/B5Rg92qYiRmcIIYoPgI=
-github.com/rancher/norman v0.0.0-20241001183610-78a520c160ab h1:ihK6See3y/JilqZlc0CG7NXPN+ue5nY9U7xUZUA8M7I=
-github.com/rancher/norman v0.0.0-20241001183610-78a520c160ab/go.mod h1:qX/OG/4wY27xSAcSdRilUBxBumV6Ey2CWpAeaKnBQDs=
+github.com/rancher/norman v0.5.0 h1:O77NXN4oyiXTbWG0VFDLGTbABsoAq5SjfSE9BYg1Z2Y=
+github.com/rancher/norman v0.5.0/go.mod h1:qX/OG/4wY27xSAcSdRilUBxBumV6Ey2CWpAeaKnBQDs=
 github.com/rancher/qase-go/client v0.0.0-20240308221502-c3b2635212be h1:+m6Jv5sAI4i5NwVYYUccJUK+ecp8eHInkZfMD8BgNjU=
 github.com/rancher/qase-go/client v0.0.0-20240308221502-c3b2635212be/go.mod h1:NP3xboG+t2p+XMnrcrJ/L384Ki0Cp3Pww/X+vm5Jcy0=
 github.com/rancher/rancher v0.0.0-20241119163817-d801b4924311 h1:1LQW1FxHHNhyPy4wvtM7o/7ZePjnQ6SwEqxV8giytlQ=
