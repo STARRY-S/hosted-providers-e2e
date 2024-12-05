@@ -13,7 +13,7 @@ require (
 	github.com/pkg/errors v0.9.1
 	github.com/rancher-sandbox/ele-testhelpers v0.0.0-20241114104736-0d5b41ca9158
 	github.com/rancher-sandbox/qase-ginkgo v1.0.1
-	github.com/rancher/norman v0.0.0-20241001183610-78a520c160ab
+	github.com/rancher/norman v0.5.0
 	github.com/rancher/rancher v0.0.0-00010101000000-000000000000
 	github.com/rancher/shepherd v0.0.0-20241113142845-1338e51b4891 // rancher/shepherd main commit
 	github.com/sirupsen/logrus v1.9.3
