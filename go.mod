@@ -17,7 +17,7 @@ require (
 	github.com/rancher/rancher v0.0.0-00010101000000-000000000000
 	github.com/rancher/shepherd v0.0.0-20241113142845-1338e51b4891 // rancher/shepherd main commit
 	github.com/sirupsen/logrus v1.9.3
-	k8s.io/apimachinery v0.31.1
+	k8s.io/apimachinery v0.31.3
 	k8s.io/utils v0.0.0-20240711033017-18e509b52bc8
 )
 
