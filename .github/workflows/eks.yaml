@@ -3,9 +3,9 @@ name: EKS-E2E
 run-name: EKS on Rancher ${{ inputs.rancher_version || 'latest/devel/head' }} deployed on ${{ inputs.k3s_version || 'v1.31.5+k3s1' }}
 
 on:
-  schedule:
-    - cron: "0 1 * * 1-6" # From Monday to Saturday
-    - cron: "0 1 * * 0" # On Sunday
+  # schedule:
+  #   - cron: "0 1 * * 1-6" # From Monday to Saturday
+  #   - cron: "0 1 * * 0" # On Sunday
   workflow_dispatch: # Allow running manually on demand
     inputs:
       rancher_version:
