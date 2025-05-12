@@ -1,6 +1,7 @@
 module github.com/rancher/hosted-providers-e2e
 
-go 1.22.0
+go 1.23.0
+
 toolchain go1.24.1
 
 require (
@@ -15,7 +16,7 @@ require (
 	github.com/rancher/rancher v0.0.0-00010101000000-000000000000
 	github.com/rancher/shepherd v0.0.0-20250205140852-ba6d2793aaff // rancher/shepherd main commit
 	github.com/sirupsen/logrus v1.9.3
-	k8s.io/apimachinery v0.31.1
+	k8s.io/apimachinery v0.31.8
 	k8s.io/utils v0.0.0-20240711033017-18e509b52bc8
 )
 
